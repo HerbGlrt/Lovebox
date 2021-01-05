@@ -4,8 +4,8 @@ DIY project to lasercut a lovebox inspired from https://en.lovebox.love/. It was
 
 (This is a fork of mine to share some of the changes that I made on the original LoveBox project from julisa! some of my changes were to polish the original SVG files, detail a little bit more how to write the Gist url on the code, I used RGB LEDs to give a rainbow effect at the acrilyc bottom of the box and some other changes! For more details on how I did it, watch my [Youtube video]())
 
-![](https://github.com/HerbGlrt/Lovebox/blob/master/docs/images/Pictures_lovebox.jpg?raw=true)https://i.imgur.com/5MPBxsc.jpg
-![](https://github.com/julisa99/Lovebox/blob/master/docs/images/demo_lovebox.gif)
+![](https://github.com/HerbGlrt/Lovebox/blob/master/docs/images/Pictures_lovebox.jpg?raw=true)
+![](https://github.com/HerbGlrt/Lovebox/blob/master/docs/images/demo_lovebox.gif?raw=true)
 
 ## Materials
 1. [3mm wood](https://www.amazon.de/dp/B0002FQKX4) (to cut the case + heart)

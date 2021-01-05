@@ -1,4 +1,4 @@
-const char* _ssid = "WiFi ID";
+const char* _ssid = "WLAN";
 const char* _password = "WiFi Password";-
 
 const String _url = "/Your-Github-username/Hash-Code/raw";

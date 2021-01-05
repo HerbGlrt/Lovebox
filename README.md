@@ -2,7 +2,7 @@
 ===
 DIY project to lasercut a lovebox inspired from https://en.lovebox.love/. It was a homemade Christmas present for my mom. So I can send her messages or pictures at any time to start the day motivated. When a new message is received, the heart moves in front of the box. It stops as soon as the message has been read (more specifically the built-in brightness sensor reacts when the box is opened). Have fun building your own!
 
-(This is a fork of mine to share some of the changes that I made on the original LoveBox project from julisa! some of my changes were to polish the original SVG files, detail a little bit more how to write the Gist url on the code, I used RGB LEDs to give a rainbow effect at the acrilyc bottom of the box and some other changes! For more details on how I did it, watch my [Youtube video]())
+(This is a fork of mine to share some of the changes that I made on the original LoveBox project from julisa! some of my changes were to polish the original SVG files, detail a little bit more how to write the Gist url on the code, I used RGB LEDs to give a rainbow effect at the acrilyc bottom of the box and some other changes! For more details on how I did it, watch my [Youtube video](https://www.youtube.com/watch?v=Yz5JCpYiVz8))
 
 ![](https://github.com/HerbGlrt/Lovebox/blob/master/docs/images/Pictures_lovebox.jpg?raw=true)
 ![](https://github.com/HerbGlrt/Lovebox/blob/master/docs/images/demo_lovebox.gif?raw=true)

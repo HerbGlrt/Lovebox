@@ -16,7 +16,7 @@ DIY project to lasercut a lovebox inspired from https://en.lovebox.love/. It was
 6. [OLED display](https://www.amazon.de/dp/B074NJMPYJ)
 7. [Perfboard](https://www.amazon.de/dp/B00VL1KHJQ)
 8. [Breakaway PCB Connector](https://www.amazon.de/dp/B01M69EA9O)
-9. [1mm acryl](https://www.amazon.de/dp/B07T4JSXYR) (to cut the display)
+9. [1mm acryl](https://www.amazon.de/dp/B07T4JSXYR) (to cut the display and bottom)
 10. [RGB Pixel LEDs](https://www.amazon.com/BTF-LIGHTING-WS2812B-Heatsink-10mm3mm-WS2811/dp/B01DC0J0WS/ref=sr_1_3?dchild=1&keywords=neopixel+rgb&qid=1609265841&sr=8-3)
 
 ## Composition 
